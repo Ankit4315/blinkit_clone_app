@@ -52,7 +52,13 @@ The project follows the recommended structure:
 
 1. Implement a proper state management solution (Provider/Bloc)
 2. Add a dark mode toggle
-3. Implement search functionality to filter products
+3. Implement functionality to filter products
 4. Add animations for page transitions
 5. Make product data come from a mock API
 6. Improve responsiveness across different screen sizes
+
+   - [4](https://github.com/user-attachments/assets/d5ce6881-2025-494d-9702-2ae1afbff323)
+![1](https://github.com/user-attachments/assets/4986d90b-3812-456c-b499-aa5cff0c8af3)
+![2](https://github.com/user-attachments/assets/ad519a37-3388-436e-98d9-7720a3616aa1)
+![3](https://github.com/user-attachments/assets/2008cbe4-4ee2-4969-bcbf-d9f1f2cd0d63)
+
