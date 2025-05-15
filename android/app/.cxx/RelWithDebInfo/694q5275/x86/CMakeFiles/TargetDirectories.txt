@@ -1,0 +1,2 @@
+C:/Users/Varma/Desktop/blinkit1/android/app/.cxx/RelWithDebInfo/694q5275/x86/CMakeFiles/edit_cache.dir
+C:/Users/Varma/Desktop/blinkit1/android/app/.cxx/RelWithDebInfo/694q5275/x86/CMakeFiles/rebuild_cache.dir
